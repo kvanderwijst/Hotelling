@@ -1,0 +1,2 @@
+wget -N -q "https://ampl.com/dl/open/ipopt/ipopt-linux64.zip"
+unzip -o -q ipopt-linux64
